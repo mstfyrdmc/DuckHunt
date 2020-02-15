@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\bin\Debug\DuckHuntV04.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\bin\Debug\DuckHuntV04.exe
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\bin\Debug\DuckHuntV04.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.exe
+C:\Users\Mustafa YARDIMCI\Desktop\DuckHuntV04\DuckHuntV04\obj\Debug\DuckHuntV04.pdb
